@@ -1,1 +1,1 @@
-# Titanic-classification
+# Titanic-classification using logistic regression
