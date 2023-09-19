@@ -6,7 +6,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import LabelEncoder
 from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import accuracy_score, classification_report, confusion_matrix
-data = pd.read_csv('C:\\Users\\Lenevo\\Downloads\\Titanic-Dataset (1).csv')
+data = pd.read_csv('C:\\Users\\Lenevo\\Downloads\\Titanic-Dataset.csv')
 data.head()
 data.tail()
 data.shape
